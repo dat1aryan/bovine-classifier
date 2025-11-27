@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/d5c625c2-d162-48f7-9859-593e11796b6f
+**URL**: https://moo-or-buff-ai.lovable.app
 
 ## What technologies are used for this project?
 
